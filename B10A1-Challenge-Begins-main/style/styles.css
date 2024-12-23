@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", serif; */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#background-pic{
+    background-image: url("../assets/Group.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    padding: 130px;
+}
+
+#banner{
+    background-image: url("../assets/Hero-bg.png");
+    background-size: contain;
+    height: 652px;
+    width: 1440px;
+}
+
+
+
+    
+    
+    
+    
+    
+    
